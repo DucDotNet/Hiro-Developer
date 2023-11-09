@@ -10,27 +10,35 @@ Now you don't need any previous coding or technical experience. This course is d
 
 We're going to start from the very basics of HTML and CSS and build our way up step by step. And along the way, we're going to learn all the major skills that we need to create websites at a professional level.
 
-You can find the different sections of this course below the video here and here. And after each section, I'm going to give you a bunch of
-exercises that you can do on your own to practice the skills that
-we learned in total.
+You can find the different sections of this course below the video here and here. And after each section, I'm going to give you a bunch of exercises that you can do on your own to practice the skills that we learned in total.
 
 This course is going to have more than 100 exercises. Lastly, you don't have to worry about taking notes. I created an HTML and CSS reference that will list everything that we learned in this course. 
 
 With that said, let's get started.
 
-# 01. HTML Basic
+# Getting Started
 
-I am going to be doing this course on a Mac, but everything is the same for a
-Windows computer. Before we begin, we're going to need two pieces of
-software, a web browser and a code editor.
+I am going to be doing this course on a Mac, but everything is the same for a Windows computer. Before we begin, we're going to need two pieces of software, a web browser and a code editor. A web browser lets us view websites on the internet. It's also going to let us view the website that we create in this course. 
 
-A web browser lets us view websites on the internet. It's also going to let us view the website that we create in this course. The most popular web browser for web development is Google Chrome. 
+### Web browser
+The most popular web browser for web development is Google Chrome. 
+* Download Chrome web browser (recommended) [Link &#x2913;](https://www.google.com/chrome/)
+* Download Edge web browser (alternative) [Link &#x2913;](https://www.microsoft.com/en-us/edge)
+* Download Firefox web browser (alternative) [Link &#x2913;](https://www.mozilla.org/en-US/firefox/new/)
+* Download Opera web browser (alternative) [Link &#x2913;](https://www.opera.com/)
 
+### IDE/Text Editor
 A code editor helps us write our HTML and CSS code. The most popular code editor for web development is called VS. Code or Visual Studio Code. 
+* Download Visual Studio Code (recommended) [Link &#x2913;](https://code.visualstudio.com/download)
+
+If you use Visual Studio Code, it is also recommended that you install the Live Server extension:
+* Download Live Server extension (recommended) [Link &#x2913;](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 To install both of these, we can go to google.com and then search for Google Chrome or for VS code and then open the first result and follow the instructions to download and install.
 
 Once we have those two installed, we can start the course. We'll begin by learning what is html. 
+
+# 01. HTML Basic
 
 What is HTML?
 
@@ -39,7 +47,6 @@ HTML stands for hypertext markup language. You don't have to worry about what th
 The easiest way to understand what HTML is, is that we're simply giving instructions to a computer. We're telling the computer what to do step by step. The computer will then follow our instructions to create our website. So I find the best way to learn HTML is to jump in and give it a try.
 
 So we're going to create our first HTML file and our first website. Let's go to our computer and we're going to create a new folder. So this folder is going to contain all the code for this course.
-
 
 # 02. CSS Basic
 
